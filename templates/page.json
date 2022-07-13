@@ -6,9 +6,117 @@
         "padding_top": 28,
         "padding_bottom": 28
       }
+    },
+    "1657716278f4e59754": {
+      "type": "image-with-text",
+      "blocks": {
+        "165771627849452358-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Anna Vicens",
+            "heading_size": "h1"
+          }
+        },
+        "325d07bd-4c82-4499-80a3-253044b2d40d": {
+          "type": "caption",
+          "settings": {
+            "caption": "Dirección",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "165771627849452358-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "b6fc683c-14c2-4c3a-a97c-c960d1c97229": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contactar",
+            "button_link": "mailto:anna@eccomibooks.com"
+          }
+        }
+      },
+      "block_order": [
+        "165771627849452358-0",
+        "325d07bd-4c82-4499-80a3-253044b2d40d",
+        "165771627849452358-1",
+        "b6fc683c-14c2-4c3a-a97c-c960d1c97229"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/moody-portrait-of-a-child-in-black-and-white.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1657716810be48d32f": {
+      "type": "image-with-text",
+      "blocks": {
+        "1657716810764255e3-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Jorge Prado",
+            "heading_size": "h1"
+          }
+        },
+        "5817cb80-a5a9-4c04-a24b-77e0e4649a57": {
+          "type": "caption",
+          "settings": {
+            "caption": "Comercial",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "1657716810764255e3-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>De pequeño quería ser poeta, me pasaba mucho tiempo recitando poemas y este era mi favorito:<\/p><p><em>“Margarita está linda la mar, y el viento, lleva esencia sutil de azahar; yo siento en el alma una alondra cantar; tu acento: Margarita, te voy a contar un cuento…”  <\/em><\/p><p>Hoy sigo perdiéndome entre las páginas de los libros, buscando nuevos cuentos que contar…<\/p>",
+            "text_style": "body"
+          }
+        },
+        "1657716810764255e3-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contactar",
+            "button_link": "mailto:jorge@eccomibooks.com"
+          }
+        }
+      },
+      "block_order": [
+        "1657716810764255e3-0",
+        "5817cb80-a5a9-4c04-a24b-77e0e4649a57",
+        "1657716810764255e3-1",
+        "1657716810764255e3-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/WhatsApp_Image_2022-06-28_at_12.08.56_1.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "text_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
-    "main"
+    "main",
+    "1657716278f4e59754",
+    "1657716810be48d32f"
   ]
 }
